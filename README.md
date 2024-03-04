@@ -5,7 +5,7 @@ I completed a data Analyst Bootcamp which equipped me with the necessary skills 
 
 I am enthusiastic about understanding different types of data and showing my step-by-step process of data analysis through projects. I am open to critique as I wish to improve myself continuously please reach out to me on Linkedin 😃.
 
-## Technology Proficiency 
+## Technologies
 
 - Excel
 - Python
